@@ -1,5 +1,6 @@
 name: Meson Builds with Conda
-on: [push, pull_request]
+#on: [push, pull_request]
+on: []
 
 jobs:
   buildmeson:
